@@ -1,1 +1,15 @@
-
+{
+  "id":1,
+  "title":"A Tribe Called Judah",
+  "description":"Latest Nigerian comedy movie.",
+  "thumbnail":"https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+  "youtubeId":"dQw4w9WgXcQ",
+  "genre":"Comedy",
+  "year":"2024",
+  "duration":"2h 15m",
+  "director":"Funke Akindele",
+  "cast":[
+      "Actor One",
+      "Actor Two"
+  ]
+}
