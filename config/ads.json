@@ -1,1 +1,5 @@
-
+{
+  "banner_ads":true,
+  "interstitial_ads":true,
+  "reward_ads":false
+}
