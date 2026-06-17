@@ -7,7 +7,8 @@
     "youtubeId":"dQw4w9WgXcQ",
     "genre":"Comedy",
     "year":"2024",
-    "duration":"2h 15m"
+    "duration":"2h 15m",
+    "views":"2000000"
   },
 
   {
@@ -18,6 +19,7 @@
     "youtubeId":"aqz-KE-bpKQ",
     "genre":"Action",
     "year":"2022",
-    "duration":"1h 50m"
+    "duration":"1h 55m",
+    "views":"500000"
   }
 ]
