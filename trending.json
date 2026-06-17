@@ -1,1 +1,23 @@
+[
+  {
+    "id":1,
+    "title":"A Tribe Called Judah",
+    "description":"Comedy movie",
+    "thumbnail":"https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    "youtubeId":"dQw4w9WgXcQ",
+    "genre":"Comedy",
+    "year":"2024",
+    "duration":"2h 15m"
+  },
 
+  {
+    "id":2,
+    "title":"Brotherhood",
+    "description":"Action movie",
+    "thumbnail":"https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+    "youtubeId":"aqz-KE-bpKQ",
+    "genre":"Action",
+    "year":"2022",
+    "duration":"1h 50m"
+  }
+]
