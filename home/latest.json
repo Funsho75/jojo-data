@@ -1,67 +1,792 @@
 {
+  "kind": "youtube#searchListResponse",
+  "etag": "Xrmf9tsi5uUZv4t7F8ti6aI_Ha8",
+  "regionCode": "NG",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 23
+  },
   "items": [
     {
+      "kind": "youtube#searchResult",
+      "etag": "XrbMlOcxYyhcCH7nE84dJ4z7vyA",
       "id": {
-        "videoId": "dQw4w9WgXcQ"
+        "kind": "youtube#video",
+        "videoId": "d4sXbpFEBVs"
       },
       "snippet": {
-        "title": "A Tribe Called Judah",
-        "description": "Comedy movie from Nigeria",
-        "channelTitle": "Nollywood Cinema",
-        "publishedAt": "2024-12-01T12:00:00Z",
+        "publishedAt": "2025-07-26T12:30:45Z",
+        "channelId": "UCOk08YPK5JWBOifY5y7MXMQ",
+        "title": "【Hindi Dubbed】The Golden Emperor । Part 01। Chinese Drama Hindi - Mini Drama Hindi",
+        "description": "【Hindi Dubbed】The Golden Emperor । Part 01। Chinese Drama Hindi - Mini Drama Hindi Welcome to another exciting ...",
         "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d4sXbpFEBVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
           "medium": {
-            "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg"
+            "url": "https://i.ytimg.com/vi/d4sXbpFEBVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d4sXbpFEBVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
           }
-        }
+        },
+        "channelTitle": "Mini Drama Hindi ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-26T12:30:45Z"
       }
     },
     {
+      "kind": "youtube#searchResult",
+      "etag": "2waH-x8sE-DlmT69SziyhYpo7YU",
       "id": {
-        "videoId": "aqz-KE-bpKQ"
+        "kind": "youtube#video",
+        "videoId": "Gzi_sx5Yg3U"
       },
       "snippet": {
-        "title": "Brotherhood",
-        "description": "Action movie",
-        "channelTitle": "Nollywood Movies",
-        "publishedAt": "2024-10-10T12:00:00Z",
+        "publishedAt": "2025-02-05T00:02:35Z",
+        "channelId": "UCRHYmKJZC1Bn1lJXGuLOC4g",
+        "title": "[ENG SUB] My Only Love | Full #drama #billionaire #mustwatch #shortdrama #Minidrama",
+        "description": "Subscribe and enjoy the best of C-Dramas, one episode at a time! Welcome to ShortDramaTime! Your go-to spot for the best ...",
         "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gzi_sx5Yg3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
           "medium": {
-            "url": "https://i.ytimg.com/vi/aqz-KE-bpKQ/mqdefault.jpg"
+            "url": "https://i.ytimg.com/vi/Gzi_sx5Yg3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gzi_sx5Yg3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
           }
-        }
+        },
+        "channelTitle": "DramaTime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T00:02:35Z"
       }
     },
     {
+      "kind": "youtube#searchResult",
+      "etag": "OusNTa83vqwWE6jWab2GwC1S6R4",
       "id": {
-        "videoId": "M7lc1UVf-VE"
+        "kind": "youtube#video",
+        "videoId": "rTyDkvAWJiA"
       },
       "snippet": {
-        "title": "Jagun Jagun",
-        "description": "Epic Yoruba movie",
-        "channelTitle": "African Magic",
-        "publishedAt": "2024-08-15T12:00:00Z",
+        "publishedAt": "2025-07-09T10:30:29Z",
+        "channelId": "UCJaHaax1s0G2BTycmfw7vMw",
+        "title": "For 8 Million Poor Girl Marries a Stranger but Finds Out He’s a Young Handsome CEO &amp; Her First Love!",
+        "description": "For more wonderful vedios, please click： https://www.youtube.com/channel/UCJaHaax1s0G2BTycmfw7vMw/join Full English ...",
         "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rTyDkvAWJiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
           "medium": {
-            "url": "https://i.ytimg.com/vi/M7lc1UVf-VE/mqdefault.jpg"
+            "url": "https://i.ytimg.com/vi/rTyDkvAWJiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rTyDkvAWJiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
           }
-        }
+        },
+        "channelTitle": " LiLi Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-09T10:30:29Z"
       }
     },
     {
+      "kind": "youtube#searchResult",
+      "etag": "vaF-dEGSXcu6yxkhkrHsm-1_vH0",
       "id": {
-        "videoId": "ysz5S6PUM-U"
+        "kind": "youtube#video",
+        "videoId": "s9X684jEARo"
       },
       "snippet": {
-        "title": "The Black Book",
-        "description": "Thriller movie",
-        "channelTitle": "Nollywood Premium",
-        "publishedAt": "2024-06-20T12:00:00Z",
+        "publishedAt": "2025-08-08T16:01:41Z",
+        "channelId": "UCRHYmKJZC1Bn1lJXGuLOC4g",
+        "title": "[ENG  SUB] Dumped the Jerk, Married the Man He Fears | FULL #Minidrama",
+        "description": "Subscribe and enjoy the best of C-Dramas, one episode at a time! Welcome to ShortDramaTime! Your go-to spot for the best ...",
         "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s9X684jEARo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ysz5S6PUM-U/mqdefault.jpg"
+            "url": "https://i.ytimg.com/vi/s9X684jEARo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s9X684jEARo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
           }
-        }
+        },
+        "channelTitle": "DramaTime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-08T16:01:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XRxrbU_n_fzMpscWAuxp86GARBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v3lA1zLULcM"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-12T12:31:10Z",
+        "channelId": "UCOk08YPK5JWBOifY5y7MXMQ",
+        "title": "【Hindi Dubbed】The CEO&#39;s Hidden Past (Complete Season)। Chinese Drama Hindi - Mini Drama Hindi",
+        "description": "【Hindi Dubbed】The CEO's Hidden Past (Complete Season)। Chinese Drama Hindi - Mini Drama Hindi Welcome to another ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v3lA1zLULcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v3lA1zLULcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v3lA1zLULcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mini Drama Hindi ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-12T12:31:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vMjAMYc2nsMbW0zBknHq__owqME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ae3YSy2Ijco"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-10T10:30:07Z",
+        "channelId": "UCJaHaax1s0G2BTycmfw7vMw",
+        "title": "Forced to Seduce CEO,Poor Girl Made a Stunning Appearance at the Gala!He Fell for Her at First Sight",
+        "description": "For more wonderful vedios, please click： https://www.youtube.com/channel/UCJaHaax1s0G2BTycmfw7vMw/join Full English ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ae3YSy2Ijco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ae3YSy2Ijco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ae3YSy2Ijco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": " LiLi Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-10T10:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9WvjHBoXaUwzMLpgAjUhSWWkniw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kUr0xCco-Do"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-11T11:01:12Z",
+        "channelId": "UCkHXShXLFdKd3FnK11-_i2Q",
+        "title": "💕A kind girl accidentally saved the vampire CEO,didn&#39;t expect that he would fall in love with her！",
+        "description": "Hello, this is Bliss Drama   the most popular hit short drama on the whole network is here! Regular updates every day, don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUr0xCco-Do/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUr0xCco-Do/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUr0xCco-Do/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bliss Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-11T11:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ugUcU9Qw2qCJL-rEUkhLuDc7d3A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zh2f5CPz-hQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-04T12:31:19Z",
+        "channelId": "UCCZf_wsrjH20YqIfnSEbFgg",
+        "title": "【ENG SUB】Forced To Marry A DEAD Man Of... But My CEO Husband Is Alive And Spoils Me Rotten!#drama",
+        "description": "Hello, this is Pulse Drama Hub   Here, you can find the latest, hottest and sweetest skits~ /@DramaCentral-tv Updated ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zh2f5CPz-hQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zh2f5CPz-hQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zh2f5CPz-hQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pulse Drama Hub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-04T12:31:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z2LKTFnA0B7JVG7sgOTidKLoe8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yhx99mMxI7A"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-19T06:30:30Z",
+        "channelId": "UCOQ80RerlwGPd1v5UMm63DA",
+        "title": "Married to a Gangster | Full Chinese Short Drama (1Hour 47Min) #shortseries",
+        "description": "Title: Married to a Gangster | Full Chinese Short Drama | Romance, Action, Betrayal Description: Get ready for an intense ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yhx99mMxI7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yhx99mMxI7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yhx99mMxI7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tim🎶",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-19T06:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w5au18kHn1meSbIPGNDOX2vXIbo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-HQDEesf3o4"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-18T09:07:33Z",
+        "channelId": "UCXzu9dHODOu_DirC6FMlN7w",
+        "title": "Divorce, My Happily Ever After Chinese Drama #dramabox",
+        "description": "romance #ceo #love #cdrama #revenge ▶️Download The Official App To Get The Next Part   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-HQDEesf3o4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-HQDEesf3o4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-HQDEesf3o4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Drama Flicks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-18T09:07:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MpwuVfbBTnPtzWS27f11YSbpGOw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ojBpI5MDno"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-16T12:30:08Z",
+        "channelId": "UCOk08YPK5JWBOifY5y7MXMQ",
+        "title": "【Hindi Dubbed】The Hero Is A Little Devil (Part 1) । Chinese Drama Hindi - Mini Drama Hindi",
+        "description": "【Hindi Dubbed】The Hero Is A Little Devil Part 1 । Chinese Drama Hindi - Mini Drama Hindi Welcome to another exciting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ojBpI5MDno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ojBpI5MDno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ojBpI5MDno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mini Drama Hindi ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-16T12:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kpfphql99XP2mMp8GXeaAT5M9J4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jfboMq1qUVw"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-01T03:00:48Z",
+        "channelId": "UCRHYmKJZC1Bn1lJXGuLOC4g",
+        "title": "[ENG  SUB] Silent Summer Love | Full #cdrama #mustwatch",
+        "description": "Subscribe and enjoy the best of C-Dramas, one episode at a time! Welcome to ShortDramaTime! Your go-to spot for the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jfboMq1qUVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jfboMq1qUVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jfboMq1qUVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DramaTime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-01T03:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ak0TLyglbYjuOgaPmFyAhR6_v9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2UjU4EAVHaU"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-17T17:00:06Z",
+        "channelId": "UCRHYmKJZC1Bn1lJXGuLOC4g",
+        "title": "[ENG SUB] Never Again in This Life | FULL #Minidrama #cdrama",
+        "description": "Subscribe and enjoy the best of C-Dramas, one episode at a time! Welcome to ShortDramaTime! Your go-to spot for the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2UjU4EAVHaU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2UjU4EAVHaU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2UjU4EAVHaU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DramaTime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-17T17:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "azTZwvnl3B3xXEpwLIsh04n_2wM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "frAOPtES2Ms"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-20T07:00:40Z",
+        "channelId": "UC12kGfpmvTXLFfXVkrXlYtA",
+        "title": "👰Trying Wedding Dress, Cinderella Meets Drugged CEO! Saves Him, Gets Stuck with Him【ENG DUB】",
+        "description": "Subscribe now for more new Chinese short dramas with Eng Sub: https://shorturl.at/ccZwb ▷▷More Free Dramas: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/frAOPtES2Ms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/frAOPtES2Ms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/frAOPtES2Ms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDrama English",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-20T07:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Tub3hDJgj_K9q0G1QzLG6Ikz5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cypNVkj_1lE"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-17T01:00:42Z",
+        "channelId": "UCRHYmKJZC1Bn1lJXGuLOC4g",
+        "title": "[ENG  SUB] She Thought Marriage Meant Forever… Until It Turned to Ashes | Full #cdrama #mustwatch",
+        "description": "Subscribe and enjoy the best of C-Dramas, one episode at a time! Welcome to ShortDramaTime! Your go-to spot for the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cypNVkj_1lE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cypNVkj_1lE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cypNVkj_1lE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DramaTime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-17T01:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VMcr5oHfaRF9F_YYCQKrGMkQgJ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4VmwOI9--ro"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-27T12:30:06Z",
+        "channelId": "UCOk08YPK5JWBOifY5y7MXMQ",
+        "title": "【Hindi Dubbed】The Hero Is A Little Devil Part 2। Chinese Drama Hindi । Mini Drama Hindi",
+        "description": "【Hindi Dubbed】The Hero Is A Little Devil Part 2 । Chinese Drama Hindi - Mini Drama Hindi Welcome to another exciting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4VmwOI9--ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4VmwOI9--ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4VmwOI9--ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mini Drama Hindi ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-27T12:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jHlzSxE0MpEFuzUMLZ6iCXlWs4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JrMtmhYuQ-k"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-21T19:08:10Z",
+        "channelId": "UCqBh1Tojm8obz5C1mlK0vxw",
+        "title": "(Hindi Dubbed) Amar Yogi 3000 | part1 ImmortalYogi Hindi Drama | Chinese Mini Drama inHindi",
+        "description": "(Hindi Dubbed) Amar Yogi 3000 | part1 ImmortalYogi Hindi Drama | Chinese Mini Drama inHindi Dubbed Series, Amar Yogi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JrMtmhYuQ-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JrMtmhYuQ-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JrMtmhYuQ-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "mini cdrama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-21T19:08:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a0IZrX4vBi959ARC8Pvt3BNTGpM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wgKZmp0Vq4k"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-18T09:25:12Z",
+        "channelId": "UCPir05eOKwEjt-h0zOKsCXw",
+        "title": "The country scholar who conquered the capital Chinese short series #shortdrama #thecountryscholar ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wgKZmp0Vq4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wgKZmp0Vq4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wgKZmp0Vq4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "shortdrama ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-18T09:25:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mh8eIQJDVwP4gV3ZojEFGNxnJRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pBLOo75Q2Tg"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-13T16:36:12Z",
+        "channelId": "UCOQ80RerlwGPd1v5UMm63DA",
+        "title": "let&#39;s Love Again Renewing Our Vow&#39;s Chinese series Full short series #Reelshort",
+        "description": "NOT MY VIDEO I DON'T KNOW ABOUT THE CREATOR BUT NOT MY VIDEO.... LET'S LOVE AGAIN RENEWING OUR VOW'S ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pBLOo75Q2Tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pBLOo75Q2Tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pBLOo75Q2Tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tim🎶",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-13T16:36:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xdaV0H8u5WRw0M_ppatASh7tsAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LMJnO_ndNlY"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-01T17:24:50Z",
+        "channelId": "UCWSl8C-j1xErI31Yh_BOyVw",
+        "title": "【Hindi Dubbed】Krodhagni | The Nine Heaven | Complete Series | All Episodes | Chinese Drama in Hindi",
+        "description": "Krodhagni (The Nine Heaven – Part 1 Hindi Dubbed) Ek aisi duniya jahan krodh ki aag aur swarg ki shakti ke beech shuru hoti ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LMJnO_ndNlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LMJnO_ndNlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LMJnO_ndNlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mysterious Tales Hindi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-01T17:24:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Tjjv554hdgfh45L4KTZjNHewSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6D7MxwZawX8"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-24T06:00:06Z",
+        "channelId": "UCOQ80RerlwGPd1v5UMm63DA",
+        "title": "💔 A Sin Behind the Smile | Chinese Short Series | Hidden Betrayals &amp; Silent Love 💔 #shortseries",
+        "description": "Description Dive into the emotional depths of “A Sin Behind the Smile” – a gripping Chinese short series that unravels the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6D7MxwZawX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6D7MxwZawX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6D7MxwZawX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tim🎶",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-24T06:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KDrnHgOuZqbNFTVQHGA4GMmBlvI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hX3FqcSPFhE"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-18T07:44:41Z",
+        "channelId": "UC8QhxdjRQEjQX_sDu3VZpkw",
+        "title": "Girl saved the CEO #trending #Chinese short series",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hX3FqcSPFhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hX3FqcSPFhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hX3FqcSPFhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chinesedrama5",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-18T07:44:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CbUlwVH01ewQ6Tb-fjFEPDd5kBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x_TBV7UaQE0"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-15T06:44:31Z",
+        "channelId": "UC8QhxdjRQEjQX_sDu3VZpkw",
+        "title": "Chinese short series",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x_TBV7UaQE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x_TBV7UaQE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x_TBV7UaQE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chinesedrama5",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-15T06:44:31Z"
       }
     }
   ]
