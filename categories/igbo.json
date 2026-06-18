@@ -1,1 +1,68 @@
-
+{
+  "items": [
+    {
+      "id": {
+        "videoId": "dQw4w9WgXcQ"
+      },
+      "snippet": {
+        "title": "A Tribe Called Judah",
+        "description": "Comedy movie from Nigeria",
+        "channelTitle": "Nollywood Cinema",
+        "publishedAt": "2024-12-01T12:00:00Z",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "videoId": "aqz-KE-bpKQ"
+      },
+      "snippet": {
+        "title": "Brotherhood",
+        "description": "Action movie",
+        "channelTitle": "Nollywood Movies",
+        "publishedAt": "2024-10-10T12:00:00Z",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aqz-KE-bpKQ/mqdefault.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "videoId": "M7lc1UVf-VE"
+      },
+      "snippet": {
+        "title": "Jagun Jagun",
+        "description": "Epic Yoruba movie",
+        "channelTitle": "African Magic",
+        "publishedAt": "2024-08-15T12:00:00Z",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M7lc1UVf-VE/mqdefault.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "videoId": "ysz5S6PUM-U"
+      },
+      "snippet": {
+        "title": "The Black Book",
+        "description": "Thriller movie",
+        "channelTitle": "Nollywood Premium",
+        "publishedAt": "2024-06-20T12:00:00Z",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ysz5S6PUM-U/mqdefault.jpg"
+          }
+        }
+      }
+    }
+  ]
+}
