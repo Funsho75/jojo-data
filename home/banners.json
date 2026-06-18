@@ -1,15 +1,19 @@
-[
-  {
-    "id":1,
-    "title":"A Tribe Called Judah",
-    "image":"https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
-    "youtubeId":"dQw4w9WgXcQ"
-  },
-
-  {
-    "id":2,
-    "title":"Brotherhood",
-    "image":"https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
-    "youtubeId":"aqz-KE-bpKQ"
-  }
-]
+{
+  "banners": [
+    {
+      "title": "Jagun Jagun",
+      "thumbnail": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+      "videoId": "aqz-KE-bpKQ"
+    },
+    {
+      "title": "Brotherhood",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "title": "A Tribe Called Judah",
+      "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg",
+      "videoId": "9bZkp7q19f0"
+    }
+  ]
+}
