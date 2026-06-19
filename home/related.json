@@ -1,0 +1,19 @@
+[
+{
+"id":1,
+"title":"Brotherhood",
+"description":"Action movie",
+"thumbnail":"https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+"youtubeId":"aqz-KE-bpKQ",
+"genre":"Action"
+},
+
+{
+"id":2,
+"title":"Shanty Town",
+"description":"Action series",
+"thumbnail":"https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+"youtubeId":"dQw4w9WgXcQ",
+"genre":"Action"
+}
+]
