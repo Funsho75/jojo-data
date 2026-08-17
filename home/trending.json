@@ -1,25 +1,47 @@
 [
   {
-    "id":1,
-    "title":"A Tribe Called Judah",
-    "description":"Comedy movie",
-    "thumbnail":"https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
-    "youtubeId":"dQw4w9WgXcQ",
-    "genre":"Comedy",
-    "year":"2024",
-    "duration":"2h 15m",
-    "views":"2000000"
+    "youtubeId": "nExcmt9MZP8",
+    "title": "LOVE BY FORCE",
+    "thumbnail": "https://i.ytimg.com/vi/nExcmt9MZP8/hqdefault.jpg",
+    "category": "Romance",
+    "language": "English",
+    "year": 2026,
+    "publishedAt": ""
   },
-
   {
-    "id":2,
-    "title":"Brotherhood",
-    "description":"Action movie",
-    "thumbnail":"https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
-    "youtubeId":"aqz-KE-bpKQ",
-    "genre":"Action",
-    "year":"2022",
-    "duration":"1h 55m",
-    "views":"500000"
+    "youtubeId": "Ud1JUpJZZGQ",
+    "title": "KISS ME TOMORROW",
+    "thumbnail": "https://i.ytimg.com/vi/Ud1JUpJZZGQ/hqdefault.jpg",
+    "category": "Romance",
+    "language": "English",
+    "year": 2026,
+    "publishedAt": ""
+  },
+  {
+    "youtubeId": "IlnDv8ntmLg",
+    "title": "FINDING SOLACE",
+    "thumbnail": "https://i.ytimg.com/vi/IlnDv8ntmLg/hqdefault.jpg",
+    "category": "Drama",
+    "language": "English",
+    "year": 2026,
+    "publishedAt": ""
+  },
+  {
+    "youtubeId": "7hNJprGr5O4",
+    "title": "EVIL AGAINST EVIL",
+    "thumbnail": "https://i.ytimg.com/vi/7hNJprGr5O4/hqdefault.jpg",
+    "category": "Drama",
+    "language": "English",
+    "year": 2026,
+    "publishedAt": ""
+  },
+  {
+    "youtubeId": "yz7neOW_VWk",
+    "title": "THE PARTY CRASHERS",
+    "thumbnail": "https://i.ytimg.com/vi/yz7neOW_VWk/hqdefault.jpg",
+    "category": "Romance",
+    "language": "English",
+    "year": 2026,
+    "publishedAt": ""
   }
 ]
