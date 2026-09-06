@@ -1,0 +1,45 @@
+[
+  {
+    "id":"KIDS001",
+    "youtubeId":"-JmNKGfFj7w",
+    "title":"ABC Phonics Song",
+    "description":"Learn ABC with fun phonics.",
+    "thumbnail":"https://i.ytimg.com/vi/-JmNKGfFj7w/mqdefault.jpg",
+    "category":"Nursery Rhymes",
+    "language":"English",
+    "ageGroup":"2-5"
+  },
+
+  {
+    "id":"KIDS002",
+    "youtubeId":"h4eueDYPTIg",
+    "title":"Learn Yoruba Alphabet",
+    "description":"Yoruba language for children.",
+    "thumbnail":"https://i.ytimg.com/vi/h4eueDYPTIg/mqdefault.jpg",
+    "category":"Language Learning",
+    "language":"Yoruba",
+    "ageGroup":"4-10"
+  },
+
+  {
+    "id":"KIDS003",
+    "youtubeId":"XhP4Jv4Z8Y0",
+    "title":"Noah's Ark",
+    "description":"Animated Bible Story.",
+    "thumbnail":"https://i.ytimg.com/vi/XhP4Jv4Z8Y0/mqdefault.jpg",
+    "category":"Bible Stories",
+    "language":"English",
+    "ageGroup":"3-12"
+  },
+
+  {
+    "id":"KIDS004",
+    "youtubeId":"jNQXAC9IVRw",
+    "title":"African Folktales",
+    "description":"Stories from Africa.",
+    "thumbnail":"https://i.ytimg.com/vi/jNQXAC9IVRw/mqdefault.jpg",
+    "category":"Folktales",
+    "language":"English",
+    "ageGroup":"5-12"
+  }
+]
